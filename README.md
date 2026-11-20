@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/utkarsh-kumar2/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/utkarsh-kumar2/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/utkarsh-kumar2/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/utkarsh-kumar2/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/utkarsh-kumar2/leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 <!---LeetCode Topics End-->
